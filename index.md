@@ -1,8 +1,8 @@
-# Software Architect's Website
+## Software Architect's Website
 
 Welcome to my website! I'm glad to have you here
 
-### My favourite foods
+## My favourite foods
 
 1. Burgers
 2. Mangos
